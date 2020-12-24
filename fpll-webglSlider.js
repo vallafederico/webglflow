@@ -1,4 +1,4 @@
-// import {Curtains, Plane, Vec2} from 'https://cdn.jsdelivr.net/npm/curtainsjs@8.0.0/src/index.mjs';
+import {Curtains, Plane, Vec2} from 'https://cdn.jsdelivr.net/npm/curtainsjs@8.0.0/src/index.mjs';
 
 class Slider {
   constructor(cont, opt) {
